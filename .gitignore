@@ -1,0 +1,3 @@
+# ignore modifications to the vanilla python 3.12.0 enviroment
+/env3.12/
+/env3.12/**
